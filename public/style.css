@@ -1,0 +1,18 @@
+.imageadj{
+    height: 350px!important;
+    width: 100%;
+    
+}
+
+.caption{
+    text-align: center;
+}
+
+.row{
+    margin-bottom: 15px!important;
+    
+}
+
+.col{
+    margin-top: 15px!important;
+}
